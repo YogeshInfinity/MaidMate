@@ -13,9 +13,14 @@ header {
 }
 
 #logo {
-    height: 500px;
+    width: 100%;          /* spans full width of the page */
+    height: auto;         /* keeps aspect ratio */
+    max-height: 500px;    /* caps height so it’s not too big */
+    object-fit: cover;    /* crops nicely if proportions don’t fit */
     margin-bottom: 10px;
+    display: block;       /* removes inline spacing */
 }
+
 
 
 #maids {
