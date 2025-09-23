@@ -7,6 +7,15 @@ body {
     background-color: #f9f4f4;
 }
 
+.ques{
+    font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:left;
+}
+.ans{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
 header {
     background-color: #f6cece;
     color: yellow;   /* changed from white to yellow */
