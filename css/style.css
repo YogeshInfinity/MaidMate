@@ -1,4 +1,5 @@
 
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f6cece;
@@ -9,6 +10,7 @@ body {
 .ques{
     font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align:left;
+    color:#baa3a3;
 }
 .ans{
     font-family: 'Times New Roman', Times, serif;
