@@ -9,9 +9,9 @@ body {
 
 .ques{
     font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
     text-align:left;
     color:#ed4444;
-    text-emphasis-color: rgb(142, 130, 130);
 }
 .ans{
     font-family: 'Times New Roman', Times, serif;
