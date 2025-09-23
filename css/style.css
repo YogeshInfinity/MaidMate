@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -18,13 +19,13 @@ header {
     color:rgb(80, 23, 186);
 }
 #logo {
-    width: 50%;
-    height: auto;
-    max-height: 500px;
-    object-fit: cover;
-    margin: 0 auto 10px auto; /* top 0, auto left/right, 10px bottom */
-    display: block; /* required for auto margin centering */
+    width: 100%;        /* take full width of the screen */
+    height: 300px;      /* fixed height (adjust as you like) */
+    object-fit: cover;  /* crops nicely while stretching */
+    display: block;
+    margin: 0 0 10px 0; /* no need for auto margins now */
 }
+
 
 
 
