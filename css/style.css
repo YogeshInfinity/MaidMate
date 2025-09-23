@@ -12,10 +12,12 @@ body {
     font-weight: bold;
     text-align:left;
     color:#ed4444;
+    margin: 0 0 10px 0;
 }
 .ans{
     font-family: 'Times New Roman', Times, serif;
     text-align:justify;
+    margin: 0 0 10px 0;
 }
 
 header {   
