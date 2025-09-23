@@ -18,14 +18,14 @@ header {
     color:rgb(80, 23, 186);
 }
 #logo {
-    width: 50%;          /* spans full width of the page */
-    height: auto;     
-    align-content: center;    /* keeps aspect ratio */
-    max-height: 500px;    /* caps height so it’s not too big */
-    object-fit: cover;    /* crops nicely if proportions don’t fit */
-    margin-bottom: 10px;
-    display: block;       /* removes inline spacing */
+    width: 50%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    margin: 0 auto 10px auto; /* top 0, auto left/right, 10px bottom */
+    display: block; /* required for auto margin centering */
 }
+
 
 
 
