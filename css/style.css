@@ -4,7 +4,6 @@ body {
     background-color: #f6cece;
     margin: 0;
     padding: 0;
-    background-color: #f9f4f4;
 }
 
 .ques{
@@ -16,9 +15,7 @@ body {
     text-align:justify;
 }
 
-header {
-    background-color: #f6cece;
-    color: yellow;   /* changed from white to yellow */
+header {   
     padding: 1rem;
     text-align: center;
 }
