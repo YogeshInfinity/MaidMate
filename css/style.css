@@ -3,6 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f6dfdf;
+    font-size: small;
     margin: 10px;
     padding: 10px;
 }
@@ -10,6 +11,7 @@ body {
 .ques{
     font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+    font-size: medium;
     text-align:left;
     color:#070606;
     margin: 0 0 10px 0;
